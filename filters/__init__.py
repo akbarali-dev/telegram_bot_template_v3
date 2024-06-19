@@ -1,5 +1,5 @@
 from loader import dp
-from .admin_filters import AdminFilter, AdminBotFilter
+from .admin_filters import AdminFilter
 from .group_filters import IsGroup
 from .private_chat_filters import IsPrivate
 
