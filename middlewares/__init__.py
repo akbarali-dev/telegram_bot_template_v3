@@ -1,8 +1,6 @@
 from aiogram import Dispatcher
-
-from loader import dp
-from .throttling import ThrottlingMiddleware
+from . import throttling
 
 
-if __name__ == "middlewares":
-    dp.middleware.setup(ThrottlingMiddleware())
+def middleware_add(dp: Dispatcher):
+    dp.message.middleware(throttling.RateLimitMiddleware())
