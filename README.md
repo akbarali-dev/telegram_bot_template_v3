@@ -14,17 +14,16 @@
 
 
 <div id="badges">
-  <a href="	https://javthon.uz">
-    <img src="https://img.shields.io/badge/Web site-white?style=for-the-badge&logo=google&logoColor=black&" alt="Twitter Badge"/>
+  <a href="https://javthon.uz">
+    <img src="https://img.shields.io/badge/Web site-white?style=for-the-badge&logo=google&logoColor=black" alt="Web site Badge"/>
   </a>
-  <a href="	https://www.linkedin.com/in/akbarali-asqaraliyev-87105522a/">
+  <a href="https://www.linkedin.com/in/akbarali-asqaraliyev-87105522a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="	https://t.me/akbaralichat_bot">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/akbaralichat_bot">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="	https://github.com/akbarali-dev">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black&" alt="Twitter Badge"/>
+  <a href="https://github.com/akbarali-dev">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
   </a>
-  
 </div>
